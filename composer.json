@@ -3,6 +3,11 @@
     "description": "geo test behamrah",
     "type": "library",
     "license": "MIT",
+    "source": {
+                "type": "git",
+                "url": "https://git.behamrah-test.ir/behamrah/route-optimization.git",
+                "reference": "66WBYmpSt6EXa8Hi7oUY"
+    },
     "autoload": {
         "psr-4": {
             "Valiasr\\RouteOptimization\\": "src/"
