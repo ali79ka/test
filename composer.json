@@ -9,8 +9,8 @@
                 "reference": "66WBYmpSt6EXa8Hi7oUY"
     },
      "dist": {
-        "type": "git",
-        "url": "https://git.behamrah-test.ir/behamrah/route-optimization.git",
+        "type": "zip",
+        "url": "https://git.behamrah-test.ir/behamrah/route-optimization/-/archive/master/route-optimization-master.zip",
     },
     "autoload": {
         "psr-4": {
