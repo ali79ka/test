@@ -8,6 +8,10 @@
                 "url": "https://git.behamrah-test.ir/behamrah/route-optimization.git",
                 "reference": "66WBYmpSt6EXa8Hi7oUY"
     },
+     "dist": {
+        "type": "git",
+        "url": "https://git.behamrah-test.ir/behamrah/route-optimization.git",
+    },
     "autoload": {
         "psr-4": {
             "Valiasr\\RouteOptimization\\": "src/"
