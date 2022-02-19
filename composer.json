@@ -10,7 +10,7 @@
     },
      "dist": {
         "type": "zip",
-        "url": "https://git.behamrah-test.ir/behamrah/route-optimization/-/archive/master/route-optimization-master.zip",
+        "url": "https://git.behamrah-test.ir/behamrah/route-optimization/-/archive/master/route-optimization-master.zip"
     },
     "autoload": {
         "psr-4": {
